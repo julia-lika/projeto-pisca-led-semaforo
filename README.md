@@ -16,6 +16,7 @@ Tinkercad: https://www.tinkercad.com/things/jBmpecp0uHn-ponderada-1-prog/editel?
 Código no IDE do Arduino:
 <div align="center">
 <img src="/img/ide-codigo.png" alt="">
+<sup>O código está disponível na raíz do projeto, em `code.cpp`</sup>
 </div>
 
 Vídeo do LED Interno funcionando: https://drive.google.com/file/d/1_NW_JNQRbjw3ecHXaVl4iym0GJTrPzS7/view?usp=drive_link
